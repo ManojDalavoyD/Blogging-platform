@@ -69,8 +69,8 @@ Blogger is a modern, full-featured blogging platform that allows users to write,
 
 ## 🙋‍♂️ Author
 
-**Darshan M**  
-📧 [darshanm1910@gmail.com](mailto:darshanm1910@gmail.com)  
-🐙 [GitHub Profile](https://github.com/yourusername)
+**Manoj Dalavoy**  
+📧 [darshanm1910@gmail.com](mailto:dalavoymanoj@gmail.com)  
+🐙 [GitHub Profile](https://github.com/ManojDalavoyD)
 
 ---
